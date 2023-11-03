@@ -1,3 +1,8 @@
+<img src="./octocat-1699044641624.png" width="350px" align="left">
+
+<br/>
+<br/>
+
 ### <div align="center">Olá, me chamo Manuele Ferreira.  Engenheira de Software atuante há 06 meses no mercado. </div>  
   
 
@@ -9,8 +14,9 @@
 
 - Estou disponível para colaborar com todo tipo de projeto.   
   
-
-<br/>  
+<br/>
+<br/>
+<br/>
 
 
 ## My Skill Set  
