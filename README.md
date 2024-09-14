@@ -3,13 +3,13 @@
 <br/>
 <br/>
 
-### <div align="center">Olá, me chamo Manuele Ferreira.  Engenheira de Software atuante no mercado há 06 meses. </div>  
+### <div align="center">Olá, me chamo Manuele Ferreira. </div>  
   
 
-- Moro em Recife - PE e atualmente sou estudante de Análise e desenvolvimento de sistemas e fazendo alguns cursos complementares de outras linguagens.  
+- Moro em Recife - PE e atualmente sou estudante de Análise e desenvolvimento de sistemas e fazendo alguns cursos complementares de linguagens e outras linguas.  
   
 
-- Estou aprendendo e desenvolvendo projetos em Java, Html, Css, Javascript, Figma.  
+- Estou aprendendo e desenvolvendo projetos em Python, Java, Html, Css, Javascript, Figma, Kotlin.  
   
 
 -  Me encontro disponível para colaborar com novos desafios e oportunidades buscando principalmente mais aprendizado em qualquer tipo de projeto.   
