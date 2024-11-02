@@ -9,7 +9,7 @@
 - Moro em Recife - PE e atualmente sou estudante de Análise e desenvolvimento de sistemas e fazendo alguns cursos complementares de linguagens e outras linguas.  
   
 
-- Estou aprendendo e desenvolvendo projetos em Python, Java, Html, Css, Javascript, Figma, Kotlin.  
+- Estou aprendendo e desenvolvendo projetos em Html, Css, Javascript, React, Figma, Python, Tailwind.  
   
 
 -  Me encontro disponível para colaborar com novos desafios e oportunidades buscando principalmente mais aprendizado em qualquer tipo de projeto.   
